@@ -7,7 +7,7 @@
 ## 🚀 Tecnologías utilizadas
 
 - **Backend:** Node.js + Express  
-- **Base de datos:** MongoDB Atlas (Mongoose ODM)  
+- **Base de datos:** MongoDB Compass 
 - **Seguridad:** Helmet, Rate-Limit, XSS-Clean  
 - **Frontend:** HTML5, CSS3, JavaScript (Fetch API)  
 - **Gestión de entorno:** dotenv  
