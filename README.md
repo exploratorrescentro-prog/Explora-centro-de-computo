@@ -8,7 +8,7 @@
 
 - **Backend:** Node.js + Express  
 - **Base de datos:** MongoDB Compass 
-- **Seguridad:** Helmet, Rate-Limit, XSS-Clean  
+- **Seguridad:** Helmet, Rate-Limit 
 - **Frontend:** HTML5, CSS3, JavaScript (Fetch API)  
 - **Gestión de entorno:** dotenv  
 
